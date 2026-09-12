@@ -1,16 +1,15 @@
-## Hi there 👋
+# I'm Muhammad Zain Hassan
 
-<!--
-**mzainhassan/mzainhassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate and Web Developer. Focused on building responsive frontend applications and backend web services using JavaScript, React.js, Node.js, and REST APIs.
 
-Here are some ideas to get you started:
+### Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** JavaScript (ES6+), HTML5, CSS3, SQL
+- **Frontend:** React.js, Bootstrap, DOM Manipulation, Responsive Design
+- **Backend & APIs:** Node.js, Express.js, RESTful APIs, JSON
+- **Databases & Version Control:** SQL, Git, GitHub
+
+### Academic & Practical Experience
+
+- **Frontend Web Development:** Developing user interfaces, API integration, and client-side web applications.
+- **IoT-based Air Pollution Monitoring System:** Final Year Project focusing on real-time environmental data visualization and backend integration.
