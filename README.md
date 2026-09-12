@@ -1,4 +1,4 @@
-# I'm Muhammad Zain Hassan
+# Muhammad Zain Hassan
 
 Computer Science graduate and Web Developer. Focused on building responsive frontend applications and backend web services using JavaScript, React.js, Node.js, and REST APIs.
 
